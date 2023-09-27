@@ -1,0 +1,29 @@
+.left_side{
+    width: 20%;
+    height: 400px;
+    border: 2px solid burlywood;
+    padding: 10px 20px;
+    float: left;
+}
+a {
+    display: block;
+    margin: 10px auto;
+}
+input {
+    width: 80%;
+    margin: 10px auto;
+}
+.content{
+    width: 70%;
+   
+    border: 2px solid burlywood;
+    padding: 10px 20px;
+    float: right;
+}
+table {
+    width: 98%;
+}
+th {
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
